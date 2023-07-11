@@ -30,5 +30,26 @@
  ![Nmap](https://img.shields.io/badge/Nmap-%237D5D99?style=flat&logo=nmap&logoColor=white)
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
 
+## 📊 Stats:
+![lxmwaniky's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxmwaniky&show_icons=true&theme=dark) <br>
+![lxmwaniky's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lxmwaniky&theme=dark) <br>
+![lxmwaniky's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxmwaniky&layout=compact&theme=dark)
+
+## 🏆 Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=lxmwaniky&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+[![](https://visitcount.itsvg.in/api?id=lxmwaniky&icon=2&color=0)](https://visitcount.itsvg.in)
+## 💰 Donation:
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lxmwaniky)
+
+
+
+
+
 
 
