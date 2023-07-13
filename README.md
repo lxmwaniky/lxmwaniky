@@ -1,6 +1,6 @@
 ## 🐱‍👤 About Me:
   Novice pentester🐛 in the making. 🚀💻 and Computer Programmer.💻 <br>
-  🔍🚧 Testing the waters of cybersecurity, armed with curiosity and determination! 🕵️‍♂️🔒✨<br>
+  Testing🔍🚧 the waters of cybersecurity, armed with curiosity and determination! 🕵️‍♂️🔒✨<br>
 
 ## 👀 Stalk Me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/lxmwaniky)
