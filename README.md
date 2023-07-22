@@ -5,7 +5,7 @@
 ## 👀 Stalk Me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/lxmwaniky)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lxmwaniky)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/lxmwaniky)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@lxmwaniky)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lxmwaniky)
 
 ## 🛠️ Skills:
