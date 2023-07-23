@@ -7,6 +7,10 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lxmwaniky)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@lxmwaniky)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lxmwaniky)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1004382002700627969)
+
+
+
 
 ## 🛠️ Skills:
  [![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
