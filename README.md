@@ -1,39 +1,68 @@
-## 🐱‍👤 About Me:
-  Novice pentester🐛 in the making. 🚀💻 and Computer Programmer.💻 <br>
-  Testing🔍🚧 the waters of cybersecurity, armed with curiosity and determination! 🕵️‍♂️🔒✨<br>
-
-## 👀 Stalk Me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/lxmwaniky)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lxmwaniky)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@lxmwaniky)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lxmwaniky)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1004382002700627969)
+## 🐱‍👤WHOAMI
+  <h1 align="center">Hello Friend! 👋, I'm Alex Mwaniki</h1>
+<h3 align="center"> Novice pentester🐛 in the making. 🚀💻 and Computer Programmer. 💻Testing🔍🚧 the waters of cybersecurity, armed with curiosity and determination! 🕵️‍♂️🔒✨<br>
+</h3>
 
 
 
+- 🔭 I’m currently working on **Music Study HQ** website
 
-## 🛠️ Skills:
- [![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
- [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/)
- ![C](https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white)
- ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
- ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
- ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23FCC624?style=flat&logo=kali-linux&logoColor=black)
- ![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-%234EAA25?style=flat&logo=owasp&logoColor=white)
- ![Wireshark](https://img.shields.io/badge/Wireshark-%236DB33F?style=flat&logo=wireshark&logoColor=white)
- ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF9800?style=flat&logo=burp%20suite&logoColor=white)
- ![John the Ripper (JTR)](https://img.shields.io/badge/John%20the%20Ripper-%231489D1?style=flat&logo=linux&logoColor=white)
- ![Hydra](https://img.shields.io/badge/Hydra-%2300AACC?style=flat&logo=kali%20linux&logoColor=white)
- ![Metasploit](https://img.shields.io/badge/Metasploit-%23E16723?style=flat&logo=metasploit&logoColor=white)
- ![Nmap](https://img.shields.io/badge/Nmap-%237D5D99?style=flat&logo=nmap&logoColor=white)
- ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
+- 🌱 I’m currently learning **Software Engineering** at ALX
 
-## 📊 Stats:
+- 📫 Email me **lekko254@gmail.com**
+
+[![](https://visitcount.itsvg.in/api?id=lxmwaniky&icon=2&color=0)](https://visitcount.itsvg.in)
+
+## 🌐LETS CONNECT
+<p align="center">
+<a href="https://twitter.com/lxmwaniky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lxmwaniky" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-nyambura-521194283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-nyambura-521194283" height="30" width="40" /></a>
+<a href="https://instagram.com/lxmwaniky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lxmwaniky" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1004382002700627969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lxmwaniky" height="30" width="40" /></a>
+<a href="https://wa.me/+254701343452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="lxmwaniky" height="30" width="40" /></a>
+</p>
+
+## 🛠️ TOOLS AND FRAMEWORKS:
+<p align="center">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" width="40" height="40"/>
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+
+
+
+
+## 📊 PROGRESS
+![lxmwaniky's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxmwaniky&layout=compact&theme=dark)
 ![lxmwaniky's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxmwaniky&show_icons=true&theme=dark) <br>
 ![lxmwaniky's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lxmwaniky&theme=dark) <br>
-![lxmwaniky's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxmwaniky&layout=compact&theme=dark)
+
 
 ## 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=lxmwaniky&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
@@ -42,10 +71,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=lxmwaniky&icon=2&color=0)](https://visitcount.itsvg.in)
-## 💰 Donation:
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lxmwaniky)
 
 
 
