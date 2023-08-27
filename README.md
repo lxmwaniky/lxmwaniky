@@ -4,9 +4,6 @@
 </h3>
 
 
-
-- 🔭 I’m currently working on **Music Study HQ** website
-
 - 🌱 I’m currently learning **Software Engineering** at ALX
 
 - 📫 Email me **lekko254@gmail.com**
