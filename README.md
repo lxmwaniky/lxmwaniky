@@ -12,7 +12,7 @@
 
 
 [![Alex Mwaniki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmwaniky&bg_color=ffffff&color=708090&line=21fc0d&point=000000&area=true&hide_border=true)](https://github.com/lxmwaniky/)
-[![wakatime](https://wakatime.com/badge/github/lxmwaniky/lxmwaniky.svg)](https://wakatime.com/badge/github/lxmwaniky/lxmwaniky)
+[![wakatime](https://wakatime.com/badge/user/018ca1cf-4e5f-42b9-90f3-aabb55ecea4a.svg)](https://wakatime.com/@018ca1cf-4e5f-42b9-90f3-aabb55ecea4a)
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23483%26project%3D%26in%3D0)](https://codetime.dev)
 ## 🌐LETS CONNECT
 <p align="center">
