@@ -1,15 +1,6 @@
-## 🐱‍👤WHOAMI
-  <h1 align="center">Hello Friend! 👋, I'm Alex Mwaniki</h1>
-<h3 align="center"> Novice pentester🐛 in the making. 🚀💻 and Computer Programmer. 💻Testing🔍🚧 the waters of cybersecurity, armed with curiosity and determination! 🕵️‍♂️🔒✨<br>
-</h3>
-
-
-- 🌱 I’m currently learning **Software Engineering** at ALX
-
-- 📫 Email me **lekko254@gmail.com**
-
-[![](https://visitcount.itsvg.in/api?id=lxmwaniky&icon=2&color=0)](https://visitcount.itsvg.in)
-
+# About Me
+ - Hi There, I'm Alex Mwaniki. I'm a **Full-Stack** Web and **Flutter Developer**
+ - I'm looking forward to collaborating in **Open-Source** Projects
 
 [![Alex Mwaniki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmwaniky&bg_color=ffffff&color=708090&line=21fc0d&point=000000&area=true&hide_border=true)](https://github.com/lxmwaniky/)
 [![wakatime](https://wakatime.com/badge/user/018ca1cf-4e5f-42b9-90f3-aabb55ecea4a.svg)](https://wakatime.com/@018ca1cf-4e5f-42b9-90f3-aabb55ecea4a)
