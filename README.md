@@ -3,18 +3,17 @@
  - I'm looking forward to collaborating in **Open-Source** Projects
 
 [![Alex Mwaniki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmwaniky&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20)](https://github.com/lxmwaniky/)
-[![wakatime](https://wakatime.com/badge/user/018ca1cf-4e5f-42b9-90f3-aabb55ecea4a.svg)](https://wakatime.com/@018ca1cf-4e5f-42b9-90f3-aabb55ecea4a)
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23483%26project%3D%26in%3D0)](https://codetime.dev)
-## 🌐LETS CONNECT
+
+# LETS CONNECT
 <p align="center">
 <a href="https://twitter.com/lxmwaniky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lxmwaniky" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lxmwaniky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lxmwaniky" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lxmwaniky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lxmwaniky" height="30" width="40" /></a>
 <a href="https://instagram.com/lxmwaniky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lxmwaniky" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1004382002700627969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lxmwaniky" height="30" width="40" /></a>
 <a href="https://wa.me/+254701343452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="lxmwaniky" height="30" width="40" /></a>
 </p>
 
-## 🛠️ TOOLS AND FRAMEWORKS:
+# TOOLS AND FRAMEWORKS:
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -54,11 +53,10 @@
 
 
 
-## 📊 PROGRESS
-![lxmwaniky's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxmwaniky&layout=compact&theme=dark)
-![lxmwaniky's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxmwaniky&show_icons=true&theme=dark) <br>
-![lxmwaniky's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lxmwaniky&theme=dark) <br>
-
+# PROGRESS
+![lxmwaniky's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lxmwaniky&&theme=dracula)
+![lxmwaniky's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxmwaniky&show_icons=true&theme=dracula)
+![lxmwaniky's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxmwaniky&langs_count=20&theme=dracula&layout=pie) ![lxmwaniky's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lxmwaniky&theme=dracula&height=50)
 
 ## 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=lxmwaniky&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
