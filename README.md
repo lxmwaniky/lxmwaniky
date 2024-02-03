@@ -1,4 +1,5 @@
 # About Me
+[![committers.top badge](https://user-badge.committers.top/kenya/lxmwaniky.svg)](https://user-badge.committers.top/kenya/lxmwaniky)
  - Hi There, I'm Alex Mwaniki. I'm a **Full-Stack** Web and **Flutter Developer**
  - I'm looking forward to collaborating in **Open-Source** Projects
 
