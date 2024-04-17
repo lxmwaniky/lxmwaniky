@@ -71,7 +71,6 @@
 # PROGRESS
 ![lxmwaniky's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lxmwaniky&&theme=dracula)
 ![lxmwaniky's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxmwaniky&show_icons=true&theme=dracula)
-![lxmwaniky's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxmwaniky&langs_count=20&theme=dracula&layout=compact) 
 ![lxmwaniky's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lxmwaniky&theme=dracula&height=50&layout=compact)
 
 ## 🏆 Trophies:
