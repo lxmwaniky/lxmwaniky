@@ -1,9 +1,8 @@
 # About Me
 [![committers.top badge](https://user-badge.committers.top/kenya/lxmwaniky.svg)](https://user-badge.committers.top/kenya/lxmwaniky)
- - Hi There, I'm Alex Mwaniki. I'm a **Full-Stack** Software and **Mobile App Developer with Flutter**
+ - Hi There, I'm Alex Mwaniki. I'm a **MERN-Stack** Software and **Mobile App Developer with Flutter**
  - I'm looking forward to collaborating in **Open-Source** Projects
-
-[![Alex Mwaniki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmwaniky&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/lxmwaniky/)
+   
 
 # LETS CONNECT
 <p align="center">
