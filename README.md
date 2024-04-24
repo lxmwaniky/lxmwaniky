@@ -2,7 +2,6 @@
 [![committers.top badge](https://user-badge.committers.top/kenya/lxmwaniky.svg)](https://user-badge.committers.top/kenya/lxmwaniky)
  - Hi There, I'm Alex Mwaniki. I'm a **Mobile App Developer with Flutter**
  - I'm looking forward to collaborating in **Open-Source** Projects
-   
 
 # LETS CONNECT
 <p align="center">
@@ -18,7 +17,7 @@
 ## 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=lxmwaniky&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<a href="https://gitroll.io/profile/uXuuyctVqXMes5KysLoJlrfai7eI3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uXuuyctVqXMes5KysLoJlrfai7eI3" alt="GitRoll Profile Badge"/></a>
 
 
 
