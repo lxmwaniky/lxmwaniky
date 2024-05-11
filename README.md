@@ -6,9 +6,9 @@
 
 - 👯 I’m looking to collaborate on **MERN and Flutter apps**
 
-- 💬 Ask me about **Flutter, Javascript Api Development and Postman**
+- 💬 Ask me about **Flutter, Javascript API Development and Postman**
 
-- 👩‍💻Currently working on ( Coming Soon )
+- 👩‍💻Currently working on (Coming Soon)
 
 ## <h3 align="left"> 🌎 Connect with me:</h3> 
 
