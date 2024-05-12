@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer - Mobile Applications</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lxmwaniky&label=Profile%20views&color=0e75b6&style=flat" alt="lxmwaniky" /> </p>
 
-- 🌱 I’m currently learning **Supabase, React, Flutter**
+- 🌱 I’m currently learning **React, Flutter**
 
 - 👯 I’m looking to collaborate on **MERN and Flutter apps**
 
