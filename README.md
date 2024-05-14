@@ -16,9 +16,6 @@
 ## 🎯 Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lxmwaniky&show_icons=true&locale=en&theme=dracula" alt="lxmwaniky" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lxmwaniky&theme=dracula)](https://git.io/streak-stats)
-
-
 
 ## 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=lxmwaniky&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
