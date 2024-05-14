@@ -10,10 +10,14 @@
 
 ## <h3 align="left"> 🌎 Connect with me:</h3> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lxmwaniky) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lxmwaniky)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lxmwaniky)
 
 ## 🎯 Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lxmwaniky&show_icons=true&locale=en&theme=dracula" alt="lxmwaniky" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lxmwaniky&theme=dracula)](https://git.io/streak-stats)
+
 
 
 ## 🏆 Trophies:
