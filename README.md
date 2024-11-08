@@ -1,12 +1,10 @@
-<h2 align="center">Hi, I'm Alex Nyambura (Dev)</h2>
+<h2 align="center">Hi, I'm Alex Nyambura</h2>
 <h3 align="center">A Tech Community Advocate</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lxmwaniky&label=Profile%20views&color=0e75b6&style=flat" alt="lxmwaniky" /> </p>
 
-- 🌱 I’m currently learning **React, Flutter, Blockchain**
-
 - 👯 I’m looking to collaborate on **MERN and Flutter apps**
 
-- 💬 Ask me about **Flutter, Javascript API Development, ICP Blockchain and Postman**
+- 💬 Ask me about **Flutter, API Development and Postman**
 
 ## <h3 align="left"> 🌎 Connect with me:</h3> 
 
