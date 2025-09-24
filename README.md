@@ -1,10 +1,6 @@
 <h2 align="center">Hi, I'm Alex Nyambura</h2>
-<h3 align="center">Community Manager | Flutter Developer</h3>
+<h3 align="center">Network Engineer(MTCNA) | Cloud Engineer (GCP) | Software Engineer (Golang, Javascript, Dart, Next.js) | AI Agents(Genkit, ADK, N8N)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lxmwaniky&label=Profile%20views&color=0e75b6&style=flat" alt="lxmwaniky" /> </p>
-
-- 👯 I’m looking to collaborate on **Backend and Flutter apps**
-
-- 💬 Ask me about **Flutter, API Development and Postman**
 
 ## <h3 align="left"> 🌎 Connect with me:</h3> 
 
