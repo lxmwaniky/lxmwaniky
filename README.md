@@ -8,6 +8,12 @@
   <a href="https://blog.lxmwaniky.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-FF0000?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" /></a>
 </p>
 
+<p align="center">
+  <a href="https://wakatime.com/@018ca1cf-4e5f-42b9-90f3-aabb55ecea4a" target="_blank" rel="noopener noreferrer">
+    <img src="https://wakatime.com/badge/user/018ca1cf-4e5f-42b9-90f3-aabb55ecea4a.svg" alt="wakatime" />
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -46,15 +52,4 @@
 </p>
 
 <br clear="both" />
-
----
-
-### ⏱️ Coding Activity
-
-<!-- Official WakaTime SVG Badge -->
-<p align="center">
-  <a href="https://wakatime.com/@018ca1cf-4e5f-42b9-90f3-aabb55ecea4a" target="_blank" rel="noopener noreferrer">
-    <img src="https://wakatime.com/badge/user/018ca1cf-4e5f-42b9-90f3-aabb55ecea4a.svg" alt="wakatime" />
-  </a>
-</p>
 
