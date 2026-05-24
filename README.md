@@ -29,7 +29,7 @@ As an **Associate Cloud Engineer (GCP)** and dedicated **Site Reliability Engine
 - **Containerization & Orchestration:** Abstracting and scaling applications with Docker and Kubernetes (GKE), ensuring reliable deployments and efficient load balancing.
 - **CI/CD & Automation:** Building secure, hands-off deployment pipelines utilizing GitHub Actions, GitLab CI, and Jenkins to maintain continuous delivery streams.
 - **Observability:** Currently deepening my expertise in enterprise SRE practices, zeroing in on Prometheus, logging, and rigid SLAs to maintain 99.99% system uptime.
-- **Ping me:** [lekko254@gmail.com](mailto:lekko254@gmail.com)
+- **Ping me:** [lxmwaniky@gmail.com](mailto:lxmwaniky@gmail.com)
 
 <br clear="both" />
 
