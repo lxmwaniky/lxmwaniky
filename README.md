@@ -23,7 +23,7 @@
 
 ### The Architecture Behind The Engineer
 
-As an **Associate Cloud Engineer (GCP)** and dedicated **Site Reliability Engineer**, my focus is exclusively on building and maintaining resilient, scalable infrastructure. I treat infrastructure strictly as code and leverage automation to eliminate deployment friction.
+As a **Professional Cloud DevOps Engineer** and dedicated **Site Reliability Engineer**, my focus is exclusively on building and maintaining resilient, scalable infrastructure. I treat infrastructure strictly as code and leverage automation to eliminate deployment friction.
 
 - **Cloud Architecture:** Designing fault-tolerant, highly-available distributed systems across GCP & AWS. I enforce Infrastructure as Code (Terraform, Ansible) to guarantee reproducible environments.
 - **Containerization & Orchestration:** Abstracting and scaling applications with Docker and Kubernetes (GKE), ensuring reliable deployments and efficient load balancing.
