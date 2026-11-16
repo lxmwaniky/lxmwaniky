@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://lxmwaniky.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://lxmwaniky.cloud" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/lxmwaniky" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/lxmwaniky" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://blog.lxmwaniky.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-FF0000?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" /></a>
+  <a href="https://lxmwaniky.hashnode.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-FF0000?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" /></a>
 </p>
 
 <p align="center">
